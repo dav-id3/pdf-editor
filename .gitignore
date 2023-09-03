@@ -1,0 +1,4 @@
+app/data/img_folders/*
+app/data/pdf_files/*
+*.DS_Store
+!.gitkeep
